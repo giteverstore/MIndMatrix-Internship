@@ -39,4 +39,4 @@ This project demonstrates Jetpack Compose fundamentals including:
 (Add screenshots here if needed)
 
 ## Author
-Avi
+Avinash Abbigeri
