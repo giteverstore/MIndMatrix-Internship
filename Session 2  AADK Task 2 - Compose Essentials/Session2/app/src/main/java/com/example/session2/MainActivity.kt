@@ -116,7 +116,7 @@ fun ProfileCard() {
 
             // Primary heading text
             Text(
-                text = "Avi",
+                text = "Hello User",
                 style = MaterialTheme.typography.headlineMedium
             )
 
