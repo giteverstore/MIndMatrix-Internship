@@ -65,12 +65,6 @@ The task focuses on layout planning, proper image resource handling, accessibili
 
 ---
 
-## Screenshots
-
-_Add screenshots of the Preview or Emulator output here._
-
----
-
 ## Learning Outcomes
 
 - Understanding how Text and Image composables work together
